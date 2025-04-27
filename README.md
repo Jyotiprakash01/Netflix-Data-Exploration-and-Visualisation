@@ -1,7 +1,9 @@
 #Business Case: Netflix - Data Exploration and Visualisation
 ## Analyse the data and generate insights that could help Netflix in deciding which type of shows/movies to produce and how they can grow the business in different countries
 
-Dataset Link: 
+Dataset Link: https://github.com/Jyotiprakash01/Netflix-Data-Exploration-and-Visualisation/blob/main/netflix.csv
+
+
 The dataset provided consists of a list of all the TV shows/movies available on Netflix:
 Show_id: Unique ID for every Movie / Tv Show
 Type: Identifier - A Movie or TV Show
