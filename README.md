@@ -19,10 +19,13 @@ Listed_in: Genre
 Description: The summary description
 
 #1. Problem Statement
+
 Netflix aims to optimize its content strategy by understanding:
+
 •	Content Preferences: Which types of movies/TV shows perform best?
 •	Global Expansion: How to tailor content for different countries?
 •	Trends Over Time: How has content production evolved?
 •	Optimal Release Timing: When should new shows/movies be launched?
 •	Key Talent: Which actors/directors are most frequent in successful content?
+
 The goal is to provide data-driven recommendations to guide Netflix's content production and business growth.
